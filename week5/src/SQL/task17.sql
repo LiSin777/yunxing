@@ -1,0 +1,1 @@
+DELETE FROM test WHERE Age >= 21 && Score >= 500;

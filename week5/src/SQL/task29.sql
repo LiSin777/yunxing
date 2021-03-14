@@ -1,0 +1,1 @@
+select CourseID , CourseName from Course where isnull(CourseBeforeID);

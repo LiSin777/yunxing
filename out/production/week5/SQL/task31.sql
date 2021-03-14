@@ -1,0 +1,1 @@
+SELECT * FROM student a WHERE EXISTS (SELECT * FROM student b WHERE b.`name`='张三' AND b.`College` = a.`College`)

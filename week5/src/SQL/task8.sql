@@ -1,0 +1,1 @@
+CREATE INDEX Index_bb2 ON ChooseBb(Bb2 ASC)

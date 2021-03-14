@@ -1,0 +1,1 @@
+SELECT choose.`SNO` FROM choose WHERE choose.`CourseID`='C1' UNION SELECT choose.`SNO` FROM choose WHERE choose.`CourseID`='C3'

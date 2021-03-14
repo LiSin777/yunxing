@@ -1,0 +1,1 @@
+SELECT SNO , NAME FROM Student;

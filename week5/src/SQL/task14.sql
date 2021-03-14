@@ -1,0 +1,1 @@
+INSERT INTO test(NAME , Age , Score , Address) SELECT NAME , Age , Score , Address FROM test_temp;
