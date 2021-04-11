@@ -2,8 +2,9 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.qing.dao.AccountDao">
-    <select id="findAll" resultType="com.xunle.domain.Account">
+<mapper namespace="com.qing.boot.mapper.AccountDao">
+    <!-- 配置查询所有 -->
+    <select id="findAll" resultType="com.qing.boot.domain.Account">
         select * from account;
     </select>
 
@@ -11,15 +12,17 @@
         delete from account where id = #{id}
     </select>
 
-    <select id="insert" parameterType="com.xunle.domain.Account" resultType="Integer">
+    <select id="insert" parameterType="com.qing.boot.domain.Account" resultType="Integer">
         insert into account (id, name, money, createtime) values(#{id}, #{name}, #{money}, #{createtime});
     </select>
 
-    <select id="selectByPrimaryKey" resultType="com.xunle.domain.Account" parameterType="String">
+    <select id="selectByPrimaryKey" resultType="com.qing.boot.domain.Account" parameterType="String">
         select * from account where id = #{id}
     </select>
-    
-    <select id="updateByPrimaryKey" parameterType="com.xunle.domain.Account" resultType="Integer">
+
+    <select id="updateByPrimaryKey" parameterType="com.qing.boot.domain.Account" resultType="Integer">
         update account set name = #{name}, money = #{money}, updatetime=#{updatetime} where id = #{id};
     </select>
+
+
 </mapper>

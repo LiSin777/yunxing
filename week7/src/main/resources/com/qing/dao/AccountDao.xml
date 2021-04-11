@@ -2,7 +2,7 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.xunle.dao.AccountDao">
+<mapper namespace="com.qing.dao.AccountDao">
     <select id="findAll" resultType="com.xunle.domain.Account">
         select * from account;
     </select>
