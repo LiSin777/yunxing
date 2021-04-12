@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abb18d01-14b8-4bd8-a356-c3c089749308" name="默认的" comment="11" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p6RlX3ZIXIrUXHqRvJWPrsp9QW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week8" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.16503906" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\javaPro\yunxing5\week8" />
+      <recent name="Z:\javaPro\yunxing5\week9" />
+      <recent name="Z:\javaPro\yunxing5\week7\src\test\java" />
+      <recent name="Z:\javaPro\yunxing5\week7\src\main\resources\com\qing\dao" />
+      <recent name="Z:\javaPro\yunxing5\week7\src\main\java\com\qing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\javaPro\yunxing5\week5\src\SQL" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.qing" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest.testFindAll">
+    <configuration name="AccountServiceTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qing" />
+      <option name="MAIN_CLASS_NAME" value="com.qing.AlgorithmTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qing" />
+      <option name="MAIN_CLASS_NAME" value="com.qing.AlgorithmTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCTest.testDeleteByID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qing" />
+      <option name="MAIN_CLASS_NAME" value="com.qing.JDBCTest" />
+      <option name="METHOD_NAME" value="testDeleteByID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCTest.testUpdateByID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qing" />
+      <option name="MAIN_CLASS_NAME" value="com.qing.JDBCTest" />
+      <option name="METHOD_NAME" value="testUpdateByID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="week6" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qing.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest.testFindAll" />
+        <item itemvalue="JUnit.AlgorithmTest.test2" />
+        <item itemvalue="JUnit.AlgorithmTest.test1" />
+        <item itemvalue="JUnit.JDBCTest.testUpdateByID" />
+        <item itemvalue="JUnit.JDBCTest.testDeleteByID" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="abb18d01-14b8-4bd8-a356-c3c089749308" name="默认的" comment="" />
+      <created>1614501709522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614501709522</updated>
+      <workItem from="1614501714731" duration="14562000" />
+      <workItem from="1615632843639" duration="8263000" />
+      <workItem from="1615682725249" duration="7560000" />
+      <workItem from="1616284108857" duration="6875000" />
+      <workItem from="1616291361292" duration="335000" />
+      <workItem from="1616291784723" duration="485000" />
+      <workItem from="1616846401000" duration="206000" />
+      <workItem from="1616846626146" duration="90000" />
+      <workItem from="1616847005672" duration="3161000" />
+      <workItem from="1616850958888" duration="349000" />
+      <workItem from="1616852721951" duration="60000" />
+      <workItem from="1617497763797" duration="139000" />
+      <workItem from="1617514016386" duration="186000" />
+      <workItem from="1618129399587" duration="916000" />
+      <workItem from="1618130455913" duration="545000" />
+      <workItem from="1618131111890" duration="605000" />
+      <workItem from="1618145394239" duration="685000" />
+      <workItem from="1618146118585" duration="151000" />
+      <workItem from="1618146281981" duration="1765000" />
+      <workItem from="1618148202531" duration="903000" />
+      <workItem from="1618220301842" duration="312000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1614589544841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614589544841</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1614591942701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614591942701</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1615692075388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615692075388</updated>
+    </task>
+    <task id="LOCAL-00004" summary="11">
+      <created>1616290970312</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616290970313</updated>
+    </task>
+    <task id="LOCAL-00005" summary="11">
+      <created>1616850205695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616850205696</updated>
+    </task>
+    <task id="LOCAL-00006" summary="11">
+      <created>1616851236645</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616851236645</updated>
+    </task>
+    <task id="LOCAL-00007" summary="11">
+      <created>1618146614513</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618146614514</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
+  </component>
+</project>
